@@ -38,7 +38,7 @@
 - I love working during night times while playing muisc.
 - I believe in the power of coding to make a positive impact.
 
-- 📫 How to reach me:
+📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/anantha-suraj-patnaikuni-100391202/
 
 

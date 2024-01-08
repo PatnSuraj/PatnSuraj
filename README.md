@@ -31,7 +31,7 @@
 
 🤝 Let's Connect:
 - Open to collaborations and discussions about anything.
-- Feel free to reach out at suraj.patnaikuni@dal.ca.
+- Feel free to reach out at surajpatnaikuni.07@gmail.com
 
 
 ⚡ Fun Facts:

@@ -40,6 +40,7 @@
 
 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/anantha-suraj-patnaikuni-100391202/
+- Portfolio: https://surajpatnaikuni07.wixsite.com/myportfolio
 
 
 🚀 Ready to code the future! Let's build something amazing together! 🌈

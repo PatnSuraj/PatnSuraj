@@ -1,46 +1,28 @@
-### Hi there 👋
+### Hi, I'm Suraj 👋
 
-👋 Hello World! I'm Anantha Suraj, a recent Computer Science graduate with a passion for crafting smart working software solutions. 🎓
+Software Engineer with 3+ years of experience across backend development, cloud infrastructure, and full-stack engineering. I currently build and own a production e-health platform end-to-end — architecture, mobile app, CI/CD, and cloud infrastructure.
 
+**AWS Certified Solutions Architect – Associate | AWS Certified Machine Learning Engineer – Associate**
 
-😄 Pronouns:
-- He/Him
+---
 
-  
-🚀 About Me:
-- 🎉 Dal CS Graduate with a knack for turning ideas into reality.
-- 💼 1 Year of Practical Experience as a Software Developer, honing my skills in both front-end and back-end technologies.
-- 💻 Full Stack Developer with a focus on creating seamless and responsive user experiences.
+**What I work on**
+- Designing and shipping production systems from architecture through release — currently the sole engineer on a bilingual (EN/FR) mobile health platform used across 500+ patient records
+- Full-stack development: React, TypeScript, Node.js, .NET Core, REST API design
+- Cloud infrastructure: AWS (Lambda, EC2, DynamoDB, API Gateway), Firebase, Docker, CI/CD
+- Strengthening core CS fundamentals — data structures, algorithms, and system design — through [`data-structures-library`](https://github.com/PatnSuraj/data-structures-library) and [`algorithm-solutions`](https://github.com/PatnSuraj/algorithm-solutions)
 
+**Tech stack**
+| | |
+|---|---|
+| Languages | Python, JavaScript, TypeScript, Java, C/C++, SQL |
+| Frontend | React, HTML5, CSS3, Bootstrap |
+| Backend | Node.js, Express, Flask, .NET Core, RESTful APIs |
+| Cloud & DevOps | AWS, Azure, GCP, Docker, CI/CD, Firebase |
+| Databases | PostgreSQL, MySQL, MS SQL, DynamoDB |
 
-🔧 Tech Stack:
-- Programming Languages: C/C++, Python, Java, C#
-- Web Development: HTML, JavaScript, CSS, Bootstrap, React.js, jQuery, PHP, Node.js, JSON
-- Database Management: SQL, MySQL, Microsoft SQL Server, PostgreSQL, Oracle, Db2 (basics)
-- Version Control & Collaboration Tools: Git, GitHub, BitBucket, GitLab, JIRA
-- Software Development & Frameworks: Microsoft .NET, ASP.NET
-- Cloud Technologies: AWS (certified), Azure, GCP (Google Cloud Platform)
-- DevOps & Containerization: Docker, CI/CD (Continuous Integration/Continuous Deployment)
-- Operating Systems: Windows, Mac, Linux, Unix
+**Currently**
+- Interviewing for Software Development roles
+- Sharpening algorithmic problem-solving daily
 
-
-🌱 Currently Growing:
-- Learning and exploring new technologies to stay on the cutting edge of web development.
-- Currently working on expense tracker project.
-
-
-🤝 Let's Connect:
-- Open to collaborations and discussions about anything.
-- Feel free to reach out at surajpatnaikuni.07@gmail.com
-
-
-⚡ Fun Facts:
-- I love working during night times while playing muisc.
-- I believe in the power of coding to make a positive impact.
-
-📫 How to reach me:
-- LinkedIn: https://www.linkedin.com/in/anantha-suraj-patnaikuni-100391202/
-- Portfolio: https://surajpatnaikuni07.wixsite.com/myportfolio
-
-
-🚀 Ready to code the future! Let's build something amazing together! 🌈
+📫 [LinkedIn](https://www.linkedin.com/in/anantha-suraj-patnaikuni-100391202/) · surajpatnaikuni.07@gmail.com
